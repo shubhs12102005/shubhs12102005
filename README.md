@@ -52,3 +52,18 @@
  
 ---
 
+### 🏆 Certifications
+- Frontend Development — **Meta**
+- Full Stack Web Development — **Google Developers Group**
+- Software Engineering Job Simulation — **JPMorgan Chase & Co.**
+- Modern React with Redux — **Udemy**
+---
+ 
+### 🌱 Beyond Code
+- 🧩 Solved 100+ problems on **LeetCode** (DSA)
+- 🤝 **NSS Volunteer** — community service, awareness campaigns & event coordination
+- 🗣️ Languages: Telugu, English, Marathi, Hindi
+<p align="center">
+  <i>💼 Open to fresher Full-Stack Developer opportunities — feel free to reach out!</i>
+</p>
+ 
