@@ -42,5 +42,13 @@
  
 ---
  
-### 📊 GitHub Stats
+ 
+### 🚀 Featured Projects
+ 
+| Project | Description | Tech |
+|---|---|---|
+| [HireMind – Full Stack Job Portal](https://hiremind-ai-job-portal.onrender.com/) | AI-powered job portal with JWT auth, protected routes, and role-based UI for recruiters & job seekers | React, Redux Toolkit, Node.js, Express.js, MongoDB |
+| [React Book Store Application](https://github.com/shubhs12102005/Book-Store-App) | Responsive book management app with full CRUD via REST APIs | React, React Router, Node.js, Express.js, MongoDB |
+ 
+---
 
